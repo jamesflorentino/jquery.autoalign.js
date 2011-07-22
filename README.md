@@ -26,4 +26,4 @@ _the code above will center your box horizontally and vertically_
 Thanks to [Rico Sta. Cruz](https://github.com/rstacruz) for suggesting to convert my original code to jQuery.
 
 ### @author ###
-James Florentino, an Interactive Designer somewhere out there.
+James Florentino, _Interactive Designer_
