@@ -15,9 +15,9 @@ _the code above will center your box horizontally and vertically_
 
 ```$(elem).autoAlign( location, options );```
 
-**location** _: String_ available values are "top", "left", "right", "bottom", "center", "middle"
-_options_ **offsetX** offset value of the element in the x-axis
-_options_ **offsetY** offset value of the element in the y-axis
+- **location** _: String_ available values are "top", "left", "right", "bottom", "center", "middle"
+- _options_ **offsetX** offset value of the element in the x-axis
+- _options_ **offsetY** offset value of the element in the y-axis
 
 #### Online example ####
 [http://autoaligner.jamesflorentino.com](http://autoaligner.jamesflorentino.com)
