@@ -22,4 +22,8 @@ _options_ **offsetY** offset value of the element in the y-axis
 #### Online example ####
 [http://autoaligner.jamesflorentino.com](http://autoaligner.jamesflorentino.com)
 
+### Thanks to ###
 Thanks to [Rico Sta. Cruz](https://github.com/rstacruz) for suggesting to convert my original code to jQuery.
+
+### @author ###
+James Florentino, an Interactive Designer somewhere out there.
