@@ -9,6 +9,8 @@ $(document).ready(function() {
    $("#b").autoalign('center middle');
 });
 ```
+_the code above will center your box horizontally and vertically_
+
 ### Method overview
 
 ``$(elem).autoAlign( location, options );``
