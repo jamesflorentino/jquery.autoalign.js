@@ -20,7 +20,7 @@ _the code above will center your box horizontally and vertically_
 - _options_ **offsetY** offset value of the element in the y-axis
 
 #### Online example ####
-[http://autoaligner.jamesflorentino.com](http://autoaligner.jamesflorentino.com)
+[http://jquery.autoalign.jamesflorentino.com](http://jquery.autoalign.jamesflorentino.com)
 
 ### Thanks to ###
 Thanks to [Rico Sta. Cruz](https://github.com/rstacruz) for suggesting to convert my original code to jQuery.
