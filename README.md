@@ -27,4 +27,5 @@ Thanks to [Rico Sta. Cruz](https://github.com/rstacruz) for suggesting to conver
 
 ### @author ###
 James Florentino, _Interactive Designer_
+
 [online portfolio](http://jamesflorentino.com)
