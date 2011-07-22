@@ -18,7 +18,6 @@
 		},
 		add:function(i, o){
 			i.css('position', 'absolute');
-			i.css('display', 'block');
 			m.l.push({i:i, ox:o.offsetX||0, oy:o.offsetY||0,l:o.location||"center middle"});
 			m.update();
 		},
