@@ -2,6 +2,7 @@
 
 ### What is jquery.autoalign.js?
 a jQuery plugin that conveniently aligns the elements of your page automatically.
+Note: This plugin will not be continued due to a successor that's currently being developed.
 
 ### Basic implementation
 ```javascript
